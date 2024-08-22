@@ -6,7 +6,7 @@ Welcome to [Rakos](https://github.com/Kaos2121/Kaos2121)'s GitHub profile. Here,
 
 - 🌍 Based in Canada
 - 🔒 I’m a private developer who enjoys working on projects behind the scenes.
-- ⚡ My interests include science fiction, comics, video games, death metal, and 3D printing.
+- ⚡ My interests include video games, VR, coding, and boxing.
 
 ## Skills
 <p align="left">
@@ -50,5 +50,52 @@ Welcome to [Rakos](https://github.com/Kaos2121/Kaos2121)'s GitHub profile. Here,
 </p>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaos2121&layout=compact&theme=dark&langs_count=10)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        <br>JavaScript<br><b>35%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+        <br>Python<br><b>25%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+        <br>Node.js<br><b>20%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+        <br>Express.js<br><b>5%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+        <br>Angular<br><b>5%</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+        <br>Java<br><b>3%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+        <br>C#<br><b>2%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
+        <br>Ruby<br><b>1%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+        <br>PHP<br><b>1%</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+        <br>TypeScript<br><b>1%</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
