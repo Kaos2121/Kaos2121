@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Matt Lett
+# 👋 **Hi, My name is Matt**
 
 ## Software Engineer & Private Developer
 
