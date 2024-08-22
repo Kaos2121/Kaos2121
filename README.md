@@ -50,8 +50,6 @@
 
 - 💞️ I’m looking to collaborate on open-source projects, particularly those that involve **distributed systems**, **blockchain technology**, or **AI/ML frameworks**. I am also keen on contributing to projects that focus on **privacy and security**.
 
-- 📫 How to reach me: Feel free to reach out to me via **GitHub Discussions**, **Twitter**, or through **email** at [kaos2121@example.com](mailto:kaos2121@example.com). I am open to networking, collaboration inquiries, and discussing innovative ideas.
-
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I have a strong passion for learning new languages, both programming and spoken. Outside of tech, I enjoy exploring different cultures and languages, currently learning **Japanese**, **Spanish**, and **German**. I also love spending time outdoors, hiking, and playing chess.
