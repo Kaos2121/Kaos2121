@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Rakos
+# ![waving hand](https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif) Hi, My name is Rakos
 
 ## Software Engineer & Private Developer
 
