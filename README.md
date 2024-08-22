@@ -1,8 +1,8 @@
-# ![waving hand](https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif) Hi, My name is Rakos
+# 👋 Hi, My name is Rakos
 
 ## Software Engineer & Private Developer
 
-**Welcome my GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.**
+Welcome to [Rakos](https://github.com/Kaos2121/Kaos2121)'s GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.
 
 - 🌍 Based in Canada
 - 🔒 I’m a private developer who enjoys working on projects behind the scenes.
@@ -44,7 +44,7 @@
 
 ## Socials
 <p align="left">
-  <a href="https://github.com/Kaos2121" target="_blank">
+  <a href="https://github.com/Kaos2121/Kaos2121" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
