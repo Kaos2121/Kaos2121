@@ -44,7 +44,7 @@ Welcome to [Rakos](https://github.com/Kaos2121)'s GitHub profile. Here, you'll f
 
 ## Socials
 <p align="left">
-  <a href="https://github.com/Kaos2121/Kaos2121" target="_blank">
+  <a href="https://github.com/Kaos2121" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
