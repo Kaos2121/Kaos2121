@@ -2,7 +2,7 @@
 
 ## Software Engineer & Private Developer
 
-Welcome to [Rakos](https://github.com/Kaos2121)'s GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.
+**Welcome to [Rakos](https://github.com/Kaos2121)'s GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.**
 
 - 🌍 Based in Canada
 - 🔒 I’m a private developer who enjoys working on projects behind the scenes.
