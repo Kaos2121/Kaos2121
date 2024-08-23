@@ -1,6 +1,6 @@
 # 👋 **Hi, My name is Matt**
 
-## Software Engineer & Private Developer
+## Private Developer
 
 Welcome to [Matt Lett](https://github.com/Kaos2121)'s GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.
 
