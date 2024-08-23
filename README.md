@@ -10,43 +10,21 @@ Welcome to My GitHub profile. Here, you'll find various projects that focus on i
 
 ## Skills
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/doc/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/docs" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/technologies/javase-documentation.html" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
 ## Socials
 <p align="left">
-  <a href="https://github.com/Kaos2121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ## Top Languages
@@ -107,4 +85,3 @@ If you appreciate my work and would like to support me, you can send crypto to t
   <br><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> Bitcoin (BTC): bc1qeh443p4yrejh3km8lhpfd4u488nghvyd20lnt4
   <br><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> Ethereum (ETH): 0x1aDA3cFF56d7967DF3ddA5d307ac4E535A92a70D
 </p>
-
