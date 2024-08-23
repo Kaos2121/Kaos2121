@@ -103,7 +103,7 @@ Welcome to [Matt Lett](https://github.com/Kaos2121)'s GitHub profile. Here, you'
 If you appreciate my work and would like to support me, you can send crypto to the following addresses:
 
 <p align="left">
-  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> **Monero (XMR)**: 492fH7W191jd1vLJK3c51DTYARStSy5VcieixJ6RywMNATY3H5GSRUfSeKm15pADzvXwwCTkuJagX4dLzTx5shaCKkjK9Di
-  <br><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> **Bitcoin (BTC)**: bc1qeh443p4yrejh3km8lhpfd4u488nghvyd20lnt4
-  <br><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> **Ethereum (ETH)**: 0x1aDA3cFF56d7967DF3ddA5d307ac4E535A92a70D
+  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> Monero (XMR): 492fH7W191jd1vLJK3c51DTYARStSy5VcieixJ6RywMNATY3H5GSRUfSeKm15pADzvXwwCTkuJagX4dLzTx5shaCKkjK9Di
+  <br><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> Bitcoin (BTC): bc1qeh443p4yrejh3km8lhpfd4u488nghvyd20lnt4
+  <br><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> Ethereum (ETH): 0x1aDA3cFF56d7967DF3ddA5d307ac4E535A92a70D
 </p>
