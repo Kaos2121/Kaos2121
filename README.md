@@ -81,7 +81,7 @@ Welcome to My GitHub profile. Here, you'll find various projects that focus on i
 If you appreciate my work and would like to support me, you can send crypto to the following addresses:
 
 <p align="left">
-  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> Monero (XMR): 492fH7W191jd1vLJK3c51DTYARStSy5VcieixJ6RywMNATY3H5GSRUfSeKm15pADzvXwwCTkuJagX4dLzTx5shaCKkjK9Di
-  <br><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> Bitcoin (BTC): bc1qeh443p4yrejh3km8lhpfd4u488nghvyd20lnt4
-  <br><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> Ethereum (ETH): 0x1aDA3cFF56d7967DF3ddA5d307ac4E535A92a70D
+  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> Monero (XMR): 49KUFTK48zEMrMykJDo4Ue1EPVGmXkZG71GUp68Q7MzBE8BzGid98ZB5LDaqJ39XUBH49NcDkTeqpa9AdFqdDv9xPwgw4G8
+  <br><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> Bitcoin (BTC): bc1qt38wlk5nqfgdytkv457n34hfejs3cwkdcew9lw
+  <br><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> Ethereum (ETH): 0xD4B1Bc78728E56E502c3DeF839aE2465ee70a78c
 </p>
