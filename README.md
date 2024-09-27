@@ -59,7 +59,7 @@ Welcome to My GitHub profile. Here, you'll find various projects that focus on i
       </td>
       <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-        <br>C#<br><b>2%</b>
+        <br>C#<br><b>4%</b>
       </td>
       <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
