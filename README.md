@@ -1,4 +1,4 @@
-# <span class="typing">👋 Hi, My name is Matt</span>
+# 👋 Hi, My name is Matt
 
 ## 🛠️ Private Developer
 
@@ -96,22 +96,3 @@ If you appreciate my work and would like to support me, you can send crypto to t
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> **Ethereum (ETH)**: 0xD4B1Bc78728E56E502c3DeF839aE2465ee70a78c
 </p>
 
-<style>
-.typing {
-  font-family: monospace;
-  overflow: hidden; 
-  white-space: nowrap; 
-  border-right: .15em solid orange; 
-  animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-</style>
