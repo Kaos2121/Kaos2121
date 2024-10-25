@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Matt
+# <span class="typing">👋 Hi, My name is Matt</span>
 
 ## 🛠️ Private Developer
 
@@ -91,7 +91,27 @@ Welcome to My GitHub profile. Here, you'll find various projects that focus on i
 If you appreciate my work and would like to support me, you can send crypto to the following addresses:
 
 <p align="center">
-  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> Monero (XMR): 49KUFTK48zEMrMykJDo4Ue1EPVGmXkZG71GUp68Q7MzBE8BzGid98ZB5LDaqJ39XUBH49NcDkTeqpa9AdFqdDv9xPwgw4G8<br>
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> Bitcoin (BTC): bc1qt38wlk5nqfgdytkv457n34hfejs3cwkdcew9lw<br>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> Ethereum (ETH): 0xD4B1Bc78728E56E502c3DeF839aE2465ee70a78c
+  <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> **Monero (XMR)**: 49KUFTK48zEMrMykJDo4Ue1EPVGmXkZG71GUp68Q7MzBE8BzGid98ZB5LDaqJ39XUBH49NcDkTeqpa9AdFqdDv9xPwgw4G8<br>
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"/> **Bitcoin (BTC)**: bc1qt38wlk5nqfgdytkv457n34hfejs3cwkdcew9lw<br>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"/> **Ethereum (ETH)**: 0xD4B1Bc78728E56E502c3DeF839aE2465ee70a78c
 </p>
+
+<style>
+.typing {
+  font-family: monospace;
+  overflow: hidden; 
+  white-space: nowrap; 
+  border-right: .15em solid orange; 
+  animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+</style>
