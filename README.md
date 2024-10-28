@@ -5,7 +5,7 @@
 Welcome to My GitHub profile. Here, you'll find various projects that focus on impactful and innovative solutions.
 
 - 🌍 **Based in Canada**
-- <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"/> **Massive Monero Enthusiast**
+- <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="18" height="18"/> **Massive Monero Enthusiast**
 - 🔒 I’m a private developer who enjoys working on projects behind the scenes.
 - ⚡ My interests include video games, VR, coding, and boxing.
 
